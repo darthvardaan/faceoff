@@ -16,11 +16,12 @@ Haar cascades, first introduced by Viola and Jones in their seminal 2001 publica
 The downside to Haar cascades is that they tend to be prone to false-positive detections, require parameter tuning when being applied for inference/detection, and just, in general, are not as accurate as the more “modern” algorithms we have today.
 
 That said, Haar cascades are:
-__1)__ An important part of the computer vision and image processing literature
 
-__2)__ Still used with OpenCV
+*__1)__ An important part of the computer vision and image processing literature
 
-__3)__ Still useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors
+*__2)__ Still used with OpenCV
+
+*__3)__ Still useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors
 
 __Step02:__ Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) face recognition algorithm.
 
