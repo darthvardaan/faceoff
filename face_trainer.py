@@ -23,7 +23,7 @@ from PIL import Image
 #map and recognize a particular face.
 recognizer=cv2.face.LBPHFaceRecognizer_create()
 #We supply the path where samples of all ids are stored.
-path='dataSet'
+path='dataset'
 #We create a function that takes all images from the path and
 #converts them to numpy arrays.
 def getImagesWithID(path):
