@@ -1,1 +1,1 @@
-web: streamlit run webapp.py
+web: sh streamlit run webapp.py
