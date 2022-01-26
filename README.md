@@ -1,4 +1,4 @@
-# Faceoff
+# Faceoff - Face Recognition WebApp
 __FaceOff__ is a Computer Vision Model that was built using OpenCV and deployed onto a Webpage using Streamlit and hosted via Heroku. As the name suggests, it does Facial Recognition and identifies people based on its own trained dataset.
 ![alt text](https://github.com/darthvardaan/faceoff/blob/5e25d71f074b51df961a3bb1e02b04f6ee59c772/Screenshot%20(154).png)
 
