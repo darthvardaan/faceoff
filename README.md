@@ -24,7 +24,6 @@ That said, Haar cascades are:
 Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) face recognition algorithm.
 
 ![alt text](https://miro.medium.com/max/1838/1*-cyqWPcas3CXp4O2O7xPpg.png)
-
 ### Step 3:
 We finally use the Haar cascades to detect and then LBPH algorithm to recognize faces in the provided image with that to our stored data. If it matches, we get the name of the individual! 
 
