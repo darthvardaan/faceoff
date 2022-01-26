@@ -1,5 +1,6 @@
 # Faceoff
 __FaceOff__ is a Computer Vision Model that was built using OpenCV and deployed onto a Webpage using Streamlit and hosted via Heroku. As the name suggests, it does Facial Recognition and identifies people based on its own trained dataset.
+![alt text](https://github.com/darthvardaan/faceoff/blob/5e25d71f074b51df961a3bb1e02b04f6ee59c772/Screenshot%20(154).png)
 
 ### Step 1:
 Create a dataset of all the images. To do this, we import opencv library. Remember we use the opencv-contrib-python library as it contains all the main modules as well as the contributed/extra modules. 
