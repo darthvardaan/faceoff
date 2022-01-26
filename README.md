@@ -17,11 +17,9 @@ The downside to Haar cascades is that they tend to be prone to false-positive de
 
 That said, Haar cascades are:
 
-*__1)__ An important part of the computer vision and image processing literature
-
-*__2)__ Still used with OpenCV
-
-*__3)__ Still useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors
+1. An important part of the computer vision and image processing literature
+2. Still used with OpenCV
+3. Still useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors
 
 __Step02:__ Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) face recognition algorithm.
 
