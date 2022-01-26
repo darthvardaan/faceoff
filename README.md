@@ -1,7 +1,8 @@
 # Faceoff
 __FaceOff__ is a Computer Vision Model that was built using OpenCV and deployed onto a Webpage using Streamlit and hosted via Heroku. 
 
-### Step 1: ### Create a dataset of all the images. To do this, we import opencv library. Remember we use the opencv-contrib-python library as it contains all the main modules as well as the contributed/extra modules. 
+### Step 1:
+Create a dataset of all the images. To do this, we import opencv library. Remember we use the opencv-contrib-python library as it contains all the main modules as well as the contributed/extra modules. 
 
 #### About the OpenCV library: ####
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
@@ -19,11 +20,13 @@ That said, Haar cascades are:
 2. Still used with OpenCV
 3. Still useful, particularly when working in resource-constrained devices when we cannot afford to use more computationally expensive object detectors
 
-### Step 2: ### Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) face recognition algorithm.
+### Step 2:
+Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) face recognition algorithm.
 
 ![alt text](https://miro.medium.com/max/1838/1*-cyqWPcas3CXp4O2O7xPpg.png)
 
-### Step 3: ### We finally use the Haar cascades to detect and then LBPH algorithm to recognize faces in the provided image with that to our stored data. If it matches, we get the name of the individual! 
+### Step 3:
+We finally use the Haar cascades to detect and then LBPH algorithm to recognize faces in the provided image with that to our stored data. If it matches, we get the name of the individual! 
 
 Access the Heroku App from this link https://faceoff-by-darthvardaan.herokuapp.com/ 
 
