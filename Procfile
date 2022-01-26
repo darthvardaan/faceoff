@@ -1,1 +1,1 @@
-web: streamlit run iris_streamlit_demo.py
+web: streamlit run webapp.py
