@@ -1,4 +1,4 @@
-#FaceOff by @darthvardaan
+#FaceOff by @vardaan11
 #Step03:We create a webpage using Streamlit. The webpage
 #will take an image as input from the user and ask the
 #trained model to make a classification and then return
