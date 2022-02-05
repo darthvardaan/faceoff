@@ -28,5 +28,5 @@ Is to train the image dataset using the LBPH (Local Binary Pattern Histogram) fa
 ### Step 3:
 We finally use the Haar cascades to detect and then LBPH algorithm to recognize faces in the provided image with that to our stored data. If it matches, we get the name of the individual! 
 
-Access the Heroku App from this link https://faceoff-by-darthvardaan.herokuapp.com/ 
+Access the Heroku App from this link https://faceoff-by-vardaan11.herokuapp.com/ 
 
