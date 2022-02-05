@@ -1,4 +1,4 @@
-#FaceOff by @darthvardaan
+#FaceOff by @vardaan11
 #Step02:Train a Computer Vision Model on the stored images.
 #We do it using the OpenCV library in python.Remember that
 #each face will have a different id, and it is required to
