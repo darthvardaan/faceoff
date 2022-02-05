@@ -1,4 +1,4 @@
-#FaceOff by @darthvardaan
+#FaceOff by @vardaan11
 #Step01 : Create a database of all the images.Remember we
 #use the opencv-contrib-python library as it contains all
 #the main modules as well as the contributed/extra modules.
